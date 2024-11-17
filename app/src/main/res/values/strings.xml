@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comunidades Autónomas</string>
+    <string name="recargar">Recargar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cambiar">Cambiar</string>
+</resources>
